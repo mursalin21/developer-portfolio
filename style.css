@@ -12,6 +12,9 @@ h1{
 h3{
     font-family: 'Otomanopee One', sans-serif;
 }
+h4{
+    font-family: 'Otomanopee One', sans-serif;
+}
 p{
     font-family: 'Yomogi', cursive;
     font-weight: bold;
@@ -19,7 +22,7 @@ p{
 .orange-class{
     color: darkmagenta;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
