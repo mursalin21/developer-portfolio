@@ -1,6 +1,7 @@
 body{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin: 0;
 }
 .top-banner{
     
@@ -69,7 +70,6 @@ p{
 #pro-developer{
     border-left: 8px solid;
     border-image: linear-gradient(orange, red) 8;
-    border-image-radius: 15px;
 }
 #web-developer{
     border-left: 8px solid;
