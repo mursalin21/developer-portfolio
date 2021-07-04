@@ -12,11 +12,16 @@ h1{
 h3{
     font-family: 'Otomanopee One', sans-serif;
 }
+p{
+    font-family: 'Yomogi', cursive;
+    font-weight: bold;
+}
 .orange-class{
     color: darkmagenta;
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -28,10 +33,16 @@ section{
 }
 .link-button{
     text-decoration: none;
+    font-family: 'Yomogi', cursive;
     background-color: orange;
     padding: 10px 40px;
     border-radius: 10px;
     background-image: linear-gradient(orange, tomato);
     color: white;
     font-weight: bold;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
